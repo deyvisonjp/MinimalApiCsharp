@@ -1,4 +1,4 @@
-﻿# (ASP.NET Minimal APIs | por André Baltieri)[https://youtu.be/s_ihuUjnsec]
+﻿# [ASP.NET Minimal APIs | por André Baltieri](https://youtu.be/s_ihuUjnsec)
 
 ## Descrição
 - _Nova forma de criar um template/projeto mais limpo_
@@ -30,6 +30,3 @@ Direto no prompt, rodamos o comando:
 
 - Para documentarmos nossa API ...
 	- `dotnet add package swashbuckle.AspNetCore`
-
-- Parei em https://youtu.be/s_ihuUjnsec?t=1676
-- Instalar Postman
